@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kokojoscripts/LT-FRUITS-OFC-FIXED-/main/V1.7"))()
